@@ -1,18 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Bagel+Fat+One&family=Cherry+Bomb+One&family=Coral+Pixels&family=DynaPuff:wght@400..700&family=Fuzzy+Bubbles:wght@400;700&family=Gabriela&family=Hachi+Maru+Pop&family=Hahmlet:wght@100..900&family=Honk&family=Julee&family=Monoton&family=Nabla&family=Ojuju:wght@200..800&family=Orbitron:wght@400..900&family=Playwrite+HU:wght@100..400&family=Playwrite+MX+Guides&family=Rubik+Pixels&family=Rubik+Wet+Paint&family=Slackside+One&display=swap');
 
 .titulo_torajo {
-    font-family: "Fuzzy Bubbles", sans-serif;
+  font-family: "Fuzzy Bubbles", sans-serif;
 }
 
 .paragrafo_torajo {
-    font-family: "Hachi Maru Pop", cursive;
+  font-family: "Hachi Maru Pop", cursive;
 }
 
 .personagens {
-    text-align: center;
+  text-align: center;
 }
 
+.titulo_morajo {
+  font-family: "Audiowide", sans-serif;
+}
 
+.paragrafo_morajo {
+  font-family: "Orbitron", sans-serif;
+}
 
 
 
