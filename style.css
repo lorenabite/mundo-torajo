@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Bagel+Fat+One&family=Cherry+Bomb+One&family=Coral+Pixels&family=DynaPuff:wght@400..700&family=Fuzzy+Bubbles:wght@400;700&family=Gabriela&family=Hachi+Maru+Pop&family=Hahmlet:wght@100..900&family=Honk&family=Julee&family=Monoton&family=Nabla&family=Ojuju:wght@200..800&family=Orbitron:wght@400..900&family=Playwrite+HU:wght@100..400&family=Playwrite+MX+Guides&family=Rubik+Pixels&family=Rubik+Wet+Paint&family=Slackside+One&display=swap');
+
+.titulo_torajo {
+    font-family: "Fuzzy Bubbles", sans-serif;
+}
+
+.paragrafo_torajo {
+    font-family: "Hachi Maru Pop", cursive;
+}
+
+.personagens {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FONTES POR PERSONAGEM */
+/* Algorithomus 
+.rubik-pixels-regular {
+  font-family: "Rubik Pixels", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.coral-pixels-regular {
+  font-family: "Coral Pixels", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rubik-wet-paint-regular {
+  font-family: "Rubik Wet Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+*/
+
+/* MORAJO
+
+TITULO
+.audiowide-regular {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+PARAGRAFO
+.orbitron-<uniquifier> {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+*/
+
+/* AZEDO
+
+TITULO
+.dynapuff-<uniquifier> {
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+PARÁGRAFO
+.cherry-bomb-one-regular {
+  font-family: "Cherry Bomb One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+*/
+
+/* PESSY
+TÍTULO
+.playwrite-hu-<uniquifier> {
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+PARÁGRAFO
+.playwrite-mx-guides-regular {
+  font-family: "Playwrite MX Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+*/
+
+/* TORAJO
+
+TITULO
+.fuzzy-bubbles-regular {
+  font-family: "Fuzzy Bubbles", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+PARAGRAFO
+.hachi-maru-pop-regular {
+  font-family: "Hachi Maru Pop", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+*/
+
+/* JAY
+
+TITULO
+.julee-regular {
+  font-family: "Julee", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+PARÁGRAFO
+.slackside-one-regular {
+  font-family: "Slackside One", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+*/
+
+/* LINN
+TITULO
+.bagel-fat-one-regular {
+  font-family: "Bagel Fat One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+PARAGRAFO
+.hahmlet-<uniquifier> {
+  font-family: "Hahmlet", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+*/
+
+/* ZULMI
+
+TITULO
+.monoton-regular {
+  font-family: "Monoton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+PARAGRAFO
+.ojuju-<uniquifier> {
+  font-family: "Ojuju", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+*/
+
+/* ABEL 
+
+TITULO
+.honk-<uniquifier> {
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+
+PARAGRAFO
+.nabla-<uniquifier> {
+  font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+}
+
+*/
