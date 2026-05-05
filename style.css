@@ -87,11 +87,101 @@
 }
 
 .colornav_index {
-  background-color: aqua;
+  background-color: rgb(98, 240, 98);
 }
 
 .fundo_index {
   background-image: url('imagens/fundomundo.png');
+}
+
+.colornav_morajo {
+  background-color: rgb(255, 57, 57);
+}
+
+.fundo_morajo {
+  background-image: url('imagens/fundomorajo.png');
+  background-size: cover;
+}
+
+.colornav_linn {
+  background-color: #fffd95;
+}
+
+.fundo_linn {
+  background-image: url('imagens/fundolinn.png');
+  background-size: cover;
+}
+
+.colornav_margo {
+  background-color: #f84c9c;
+}
+
+.fundo_margo {
+  background-image: url('imagens/fundomargo.png');
+  background-size: cover;
+}
+
+.colornav_algorithomus {
+  background-color: #000000;
+}
+
+.fundo_algorithomus {
+  background-image: url('imagens/fundopessy.png');
+  background-size: cover;
+}
+
+.colornav_pessy {
+  background-color: #eb9545;
+}
+
+.fundo_pessy {
+  background-image: url('imagens/fundopessy.png');
+  background-size: cover;
+}
+
+.colornav_jay {
+  background-color: #4b105e;
+}
+
+.fundo_jay {
+  background-image: url('imagens/fundojay.png');
+  background-size: cover;
+}
+
+.colornav_azedo {
+  background-color: #105e24;
+}
+
+.fundo_azedo {
+  background-image: url('imagens/fundoazedo.png');
+  background-size: cover;
+}
+
+.colornav_abel {
+  background-color: #42b3ff;
+}
+
+.fundo_abel {
+  background-image: url('imagens/fundoabel.png');
+  background-size: cover;
+}
+
+.colornav_zulmi {
+  background-color: #140885;
+}
+
+.fundo_zulmi {
+  background-image: url('imagens/fundozulmi.png');
+  background-size: cover;
+}
+
+.colornav_torajo {
+  background-color: #38cf72;
+}
+
+.fundo_torajo {
+  background-image: url('imagens/fundotorajo.png');
+  background-size: cover;
 }
 
 /* MARGO
