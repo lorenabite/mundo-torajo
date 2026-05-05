@@ -86,6 +86,14 @@
   font-family: "Bungee Spice", sans-serif;
 }
 
+.colornav_index {
+  background-color: aqua;
+}
+
+.fundo_index {
+  background-image: url('imagens/fundomundo.png');
+}
+
 /* MARGO
 
 TITULO
