@@ -123,6 +123,22 @@
 
 .colornav_algorithomus {
   background-color: #000000;
+
+}
+
+.versao_escuro a {
+  color: #fefefe;
+}
+
+.versao_escuro a,
+.versao_escuro:focus a,
+.versao_escuro:active a {
+  color: white !important;
+  outline: none;
+}
+
+.versao_escuro a:hover {
+  background-color: #ffffff1c;
 }
 
 .fundo_algorithomus {
@@ -182,6 +198,13 @@
 .fundo_torajo {
   background-image: url('imagens/fundotorajo.png');
   background-size: cover;
+}
+
+.texto_personagens {
+  background-color: #fffffff8;
+  padding: 1%;
+  border-radius: 10px;
+  margin-top: 10px;
 }
 
 /* MARGO
